@@ -13,8 +13,7 @@ cpp-practice/
 ├── 03-number-theory-and-bigint/      数论与高精度
 ├── 04-string-and-simulation/         字符串处理
 ├── 05-array-and-simulation/          数组与模拟
-├── 06-sorting-and-greedy/            排序与贪心
-└── 99-unfinished/                    未完成的半成品
+└── 06-sorting-and-greedy/            排序与贪心
 ```
 
 ## 01-oop-and-syntax 面向对象与语法
@@ -91,12 +90,6 @@ cpp-practice/
 | `bubble-swap-count.cpp` | **冒泡排序**：统计排序过程中的交换次数 |
 | `score-line-cutoff.cpp` | **分数线**：按 m × 1.5 划出分数线并输出晋级名单 |
 | `judge-scoring.cpp` | **评委打分**：去掉最高最低分求平均，输出选手最高分 |
-
-## 99-unfinished 半成品
-
-| 文件 | 说明 |
-| --- | --- |
-| `input-skeleton.cpp` | 只读入 `n` 就结束了，是个没写完的空壳，留着占位 |
 
 ## 合并时去掉的重复文件
 
